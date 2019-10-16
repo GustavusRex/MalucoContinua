@@ -1,0 +1,11 @@
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\bin\Debug\netcoreapp3.0\Escola Parte 2.exe
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\bin\Debug\netcoreapp3.0\Escola Parte 2.deps.json
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\bin\Debug\netcoreapp3.0\Escola Parte 2.runtimeconfig.json
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\bin\Debug\netcoreapp3.0\Escola Parte 2.runtimeconfig.dev.json
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\bin\Debug\netcoreapp3.0\Escola Parte 2.dll
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\bin\Debug\netcoreapp3.0\Escola Parte 2.pdb
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\obj\Debug\netcoreapp3.0\Escola Parte 2.csprojAssemblyReference.cache
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\obj\Debug\netcoreapp3.0\Escola Parte 2.AssemblyInfoInputs.cache
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\obj\Debug\netcoreapp3.0\Escola Parte 2.AssemblyInfo.cs
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\obj\Debug\netcoreapp3.0\Escola Parte 2.dll
+C:\Users\Dev4Jobs5\source\repos\Escola Parte 2\Escola Parte 2\obj\Debug\netcoreapp3.0\Escola Parte 2.pdb
